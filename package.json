@@ -61,7 +61,7 @@
     "http-proxy": "^1.13.1",
     "isomorphic-fetch": "^2.2.1",
     "jade": "^1.11.0",
-    "jquery": "^2.2.0",
+    "jquery": "^3.5.0",
     "knex": "^0.10.0",
     "material-ui": "^0.15.0-alpha.1",
     "moment": "^2.11.2",
